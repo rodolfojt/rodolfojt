@@ -1,19 +1,21 @@
 ## Hello everyone!
 
-I'm Rodolfo, I believe that disruptive innovation can change the world.
-I'm really fascinated about make impactful changes and I see Artificial Intelligence as the tool to make big differences.
+I'm Rodolfo, I believe in the innovation power. At the same time, innovation power could be charming, transformative and take us to better future.
+
+Through machine learning algorithms and artificial intelligence systems we can achieve at least part of that transformation in some fields in a way incredibly fast. That inspire and motivate me to go further.
+
+I'm really fascinated about make impactful changes and I see artificial intelligence as the tool to propose valuable improvements in the world.
 
 # I am Rodolfo
 
 - Machine Learning Engineer at MC1
 - Mechatronics Engineer by UFRN
 
-# My passions
+# My passions in AI
 
-- Reinforcement Learning
-- Recurrent Neural Networks
-- Data Engineering
-
+- Time series forecasting
+- Recommendation systems
+- Fraud detection
 
 <a href="https://linkedin.com/in/rodolfojt">
   <img align="left" alt="Rodolfo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
