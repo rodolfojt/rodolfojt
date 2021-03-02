@@ -8,8 +8,9 @@ I'm really fascinated about make impactful changes and I see artificial intellig
 
 # I am Rodolfo
 
-- Machine Learning Engineer at MC1
+- Machine Learning Engineer at Ernst & Young (EY)
 - Mechatronics Engineer by UFRN
+- Deep Learning Nanodegree by Udacity
 
 # My passions in AI
 
