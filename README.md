@@ -12,11 +12,9 @@ I'm really fascinated about make impactful changes and I see artificial intellig
 - Mechatronics Engineer by UFRN
 - Deep Learning Nanodegree by Udacity
 
-# My passions in AI
+# My passion in AI
 
-- Time series forecasting
-- Recommendation systems
-- Fraud detection
+- Machine Learning powered products
 
 <a href="https://linkedin.com/in/rodolfojt">
   <img align="left" alt="Rodolfo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
