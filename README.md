@@ -11,10 +11,13 @@ I'm really fascinated about make impactful changes and I see artificial intellig
 - Machine Learning Engineer at Ernst & Young (EY)
 - Mechatronics Engineer by UFRN
 - Deep Learning Nanodegree by Udacity
+- Machine Learning Engineer Nanodegree by Udacity
 
-# My passion in AI
+# My interests in AI
 
+- MLOps
 - Machine Learning powered products
+- Reinforcement Learning
 
 <a href="https://linkedin.com/in/rodolfojt">
   <img align="left" alt="Rodolfo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -28,3 +31,5 @@ I'm really fascinated about make impactful changes and I see artificial intellig
 <a href="mailto:rodolfojeronimoteles@gmail.com">
   <img align="left" alt="Rodolfo's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/gmail.svg" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=rodolfojt&color=lightgray)
