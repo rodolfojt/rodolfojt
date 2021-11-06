@@ -1,5 +1,7 @@
 ## Hello everyone!
 
+![](https://komarev.com/ghpvc/?username=rodolfojt&color=lightgray)
+
 I'm Rodolfo, I believe in the innovation power. At the same time, innovation power could be charming, transformative and take us to better future.
 
 Through machine learning algorithms and artificial intelligence systems we can achieve at least part of that transformation in some fields in a way incredibly fast. That inspire and motivate me to go further.
@@ -32,4 +34,4 @@ I'm really fascinated about make impactful changes and I see artificial intellig
   <img align="left" alt="Rodolfo's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/gmail.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=rodolfojt&color=lightgray)
+
