@@ -2,23 +2,34 @@
 
 ![](https://komarev.com/ghpvc/?username=rodolfojt&color=lightgray)
 
-I'm Rodolfo, I believe in the innovation power. At the same time, innovation power could be charming, transformative and take us to better future.
+Machine Learning Engineer with 4 years of solid experience in designing and maintaining MLOps pipelines. Specialized in end-to-end machine learning projects, ETL/ELT pipelines, and software development.
 
-Through machine learning algorithms and artificial intelligence systems we can achieve at least part of that transformation in some fields in a way incredibly fast. That inspire and motivate me to go further.
+🏆 Key Achievements:
 
-I'm really fascinated about make impactful changes and I see artificial intelligence as the tool to propose valuable improvements in the world.
+• Managed the entire lifecycle of machine learning projects, from data acquisition in databases to presenting results in Tableau. Successfully orchestrated the pilot implementation of the Perfect Order functionality recommender system for a multinational client, resulting in a notable 35% increase in net sales of suggested products.
+• Led the design and enhancement of MLOps pipelines, utilizing Vertex AI, Dataproc, PubSub, Cloud Functions, and BigQuery, to scale the solution for a complex entity resolution challenge — effectively deduplicating millions of user records.
+
+💡 Core Skills:
+
+• Proficient in Python and essential data science and machine learning libraries.
+• Practical experience in training machine learning models on large-scale clusters in cloud platforms (AWS and GCP).
+• MLOps platforms like Vertex AI and Amazon SageMaker.
+• TensorFlow, PyTorch, and machine learning libraries (XGBoost, Keras, StastModels, scikit-learn).
+• SQL databases.
+• Extensive experience with Google Cloud Platform (GCP).
 
 # I am Rodolfo
 
-- Machine Learning Engineer at ACT Digital | Globo.com
-- Mechatronics Engineer by UFRN
-- Deep Learning Nanodegree by Udacity
-- Machine Learning Engineer Nanodegree by Udacity
+• Machine Learning Engineer at ACT Digital | GloboID | Data Team
+• Machine Learning Engineer at ACT Digital | Globo.com | Recommender Systems Team
+• Mechatronics Engineer by UFRN
+• Deep Learning Nanodegree by Udacity
+• Machine Learning Engineer Nanodegree by Udacity
 
 # My interests in AI
 
-- MLOps
-- Machine Learning powered products
+• MLOps
+• Machine Learning powered products
 
 <a href="https://linkedin.com/in/rodolfojt">
   <img align="left" alt="Rodolfo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
