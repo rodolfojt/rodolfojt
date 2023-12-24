@@ -18,16 +18,6 @@ Machine Learning Engineer with 4 years of solid experience in designing and main
 - SQL databases.
 - Extensive experience with Google Cloud Platform (GCP).
 
-
-# Job Experience
-
-- Machine Learning Engineer at ACT Digital | GloboID | Data Team
-- Machine Learning Engineer at ACT Digital | Globo.com | Recommender Systems Team
-- Mechatronics Engineer by UFRN
-- Deep Learning Nanodegree by Udacity
-- Machine Learning Engineer Nanodegree by Udacity
-
-
 # My interests in AI
 
 - MLOps
