@@ -36,4 +36,5 @@ Machine Learning Engineer with 4 years of solid experience in designing and main
   <img align="left" alt="Rodolfo's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/gmail.svg" />
 </a>
 
+![Visitor Count](https://profile-counter.glitch.me/rodolfojt/count.svg)
 
