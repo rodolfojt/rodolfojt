@@ -18,10 +18,6 @@ Machine Learning Engineer with 4 years of solid experience in designing and main
 - SQL databases.
 - Extensive experience with Google Cloud Platform (GCP).
 
-# My interests in AI
-
-- MLOps
-- Machine Learning powered products
 
 <a href="https://linkedin.com/in/rodolfojt">
   <img align="left" alt="Rodolfo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
