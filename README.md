@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rodolfojt&color=lightgray)
 
-Machine Learning Engineer with 4 years of solid experience in designing and maintaining MLOps pipelines. Specialized in end-to-end machine learning projects, ETL/ELT pipelines, and software development.
+Machine Learning Engineer with 6 years of solid experience in designing and maintaining MLOps pipelines. Specialized in end-to-end machine learning projects, ETL/ELT pipelines, and software development.
 
 🏆 Key Achievements:
 
