@@ -1,36 +1,48 @@
-## Hello everyone!
+# Hello, I'm Rodolfo Teles
 
-![](https://komarev.com/ghpvc/?username=rodolfojt&color=lightgray)
+**Machine Learning Engineer | GenAI & MLOps | Cloud Solutions**
 
-Machine Learning Engineer with 6 years of solid experience in designing and maintaining MLOps pipelines. Specialized in end-to-end machine learning projects, ETL/ELT pipelines, and software development.
+  6+ years designing and deploying machine learning systems end-to-end, from data pipelines to production-grade ML models.
 
-🏆 Key Achievements:
+**Key Highlights:**
+- Built ML solutions improving sales, recommendations, and entity resolution for global companies.
+- Expertise in MLOps pipelines using **GCP (Vertex AI, Dataproc, BigQuery)**, **AWS (SageMaker)**, and containerized deployments.
+- Extensive work with **LLM applications, RAG systems, vector search**, and **dynamic model deployment architectures**.
 
-- Managed the entire lifecycle of machine learning projects, from data acquisition in databases to presenting results in Tableau. Successfully orchestrated the pilot implementation of the Perfect Order functionality recommender system for a multinational client, resulting in a notable 35% increase in net sales of suggested products.
-- Led the design and enhancement of MLOps pipelines, utilizing Vertex AI, Dataproc, PubSub, Cloud Functions, and BigQuery, to scale the solution for a complex entity resolution challenge — effectively deduplicating millions of user records.
+⚙️ **Main Stack:**
+Python, TensorFlow, PyTorch, scikit-learn, XGBoost, GCP, AWS, Kubernetes, Docker, SQL, BigQuery, Vertex AI, LangChain, OpenAI APIs, Vector Databases.
 
-💡 Core Skills:
+---
 
-- Proficient in Python and essential data science and machine learning libraries.
-- Practical experience in training machine learning models on large-scale clusters in cloud platforms (AWS and GCP).
-- MLOps platforms like Vertex AI and Amazon SageMaker.
-- TensorFlow, PyTorch, and machine learning libraries (XGBoost, Keras, StastModels, scikit-learn).
-- SQL databases.
-- Extensive experience with Google Cloud Platform (GCP).
+## Featured Projects
 
+- **RAG-based Financial Advisor Chatbot**  
+Conversational agent using LLMs and vector search for financial recommendation and decision support based on real data ingestion.
 
-<a href="https://linkedin.com/in/rodolfojt">
-  <img align="left" alt="Rodolfo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="http://rodolfojt.github.io/">
-  <img align="left" alt="Rodolfo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/rodolfojt">
-  <img align="left" alt="Rodolfo's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="mailto:rodolfojeronimoteles@gmail.com">
-  <img align="left" alt="Rodolfo's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/gmail.svg" />
-</a>
+- **Semantic Search Engine on Azure**  
+Semantic search pipeline integrating Form Recognizer, Azure Functions, OpenAI embeddings, and CosmosDB for document search.
 
-![Rodolfo's Github Stats](https://github-readme-stats.vercel.app/api?username=rodolfojt&count_private=true&show_icons=true&theme=algolia)
+- **Text-to-Music Generation with Fine-Tuned Diffusion Models**  
+Generative AI project to create music from text prompts, exploring multi-modal model capabilities.
 
+---
+
+## 📚 Talks, Blog & Resources
+
+I regularly share insights, practical tutorials, and ML case studies:
+
+👉 [Read my blog](https://rodolfoteles.com.br/)
+
+---
+
+📫 **Connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://linkedin.com/in/rodolfojt)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=flat&logoColor=white)](https://github.com/rodolfojt)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat&logoColor=white)](mailto:rodolfojeronimoteles@gmail.com)
+
+---
+
+![Visitors](https://count.getloli.com/get/@rodolfojt?theme=moebooru)
+
+![Rodolfo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodolfojt&count_private=true&show_icons=true&theme=algolia)
