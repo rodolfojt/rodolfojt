@@ -43,6 +43,6 @@ I regularly share insights, practical tutorials, and ML case studies:
 
 ---
 
-![Visitors](https://shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/rodolfojt.github.io/visits&style=flat)
+![Profile Views](https://profile-counter.glitch.me/rodolfojt/count.svg)
 
 ![Rodolfo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodolfojt&count_private=true&show_icons=true&theme=algolia)
