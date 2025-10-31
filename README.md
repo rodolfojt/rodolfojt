@@ -1,6 +1,6 @@
 # Hello, I'm Rodolfo Teles
 
-**Machine Learning Engineer | GenAI & MLOps | Cloud Solutions**
+**AI/ML Engineer | GenAI & MLOps | Cloud Solutions**
 
   6+ years designing and deploying machine learning systems end-to-end, from data pipelines to production-grade ML models.
 
@@ -16,14 +16,11 @@ Python, TensorFlow, PyTorch, scikit-learn, XGBoost, GCP, AWS, Kubernetes, Docker
 
 ## Featured Projects
 
-- **RAG-based Financial Advisor Chatbot**  
-Conversational agent using LLMs and vector search for financial recommendation and decision support based on real data ingestion.
-
-- **Semantic Search Engine on Azure**  
-Semantic search pipeline integrating Form Recognizer, Azure Functions, OpenAI embeddings, and CosmosDB for document search.
+- **Semantic Search Engine**  
+Semantic search pipeline on Google Cloud Platform.
 
 - **Text-to-Music Generation with Fine-Tuned Diffusion Models**  
-Generative AI project to create music from text prompts, exploring multi-modal model capabilities.
+Generative AI project to create music from text prompts, exploring Stable Diffusion and Riffusion capabilities.
 
 ---
 
