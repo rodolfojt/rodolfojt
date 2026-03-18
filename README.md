@@ -2,7 +2,7 @@
 
 **AI/ML Engineer | GenAI & MLOps | Cloud Solutions**
 
-  6+ years designing and deploying machine learning systems end-to-end, from data pipelines to production-grade ML models.
+  7+ years designing and deploying machine learning systems end-to-end, from data pipelines to production-grade ML models.
 
 **Key Highlights:**
 - Built ML solutions improving sales, recommendations, and entity resolution for global companies.
