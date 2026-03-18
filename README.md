@@ -16,11 +16,7 @@ Python, TensorFlow, PyTorch, scikit-learn, XGBoost, GCP, AWS, Kubernetes, Docker
 
 ## Featured Projects
 
-- **Semantic Search Engine**  
-Semantic search pipeline on Google Cloud Platform.
-
-- **Text-to-Music Generation with Fine-Tuned Diffusion Models**  
-Generative AI project to create music from text prompts, exploring Stable Diffusion and Riffusion capabilities.
+- ...
 
 ---
 
