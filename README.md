@@ -14,12 +14,6 @@ Python, TensorFlow, PyTorch, scikit-learn, XGBoost, GCP, AWS, Kubernetes, Docker
 
 ---
 
-## Featured Projects
-
-- ...
-
----
-
 ## 📚 Talks, Blog & Resources
 
 I regularly share insights, practical tutorials, and ML case studies:
